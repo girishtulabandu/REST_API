@@ -3,5 +3,9 @@
 # testing tool
 Uses POSTMAN to test the API
 
+# designing tool
+Flask
+
 # purpose
-can do all the CURD operations
+
+which can do all CURD operations and fetchdata from sqlite3 and return as JSON
