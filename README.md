@@ -1,7 +1,7 @@
 # REST_API
 
-#testing tool
+# testing tool
 Uses POSTMAN to test the API
 
-#purpose
+# purpose
 can do all the CURD operations
